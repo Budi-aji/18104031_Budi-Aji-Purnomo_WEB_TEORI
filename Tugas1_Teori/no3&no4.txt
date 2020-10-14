@@ -1,0 +1,2 @@
+3. Jika standar untuk menulis kode di ikuti maka kode yang di tulis akan konsisten dan mudah dirawat.
+4. Hapuslah Trailing Whitespace, Trailing Whitespace tidak diperlukan dan hanya akan memperumit perbedaan kode yang di tulis.
